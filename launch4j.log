@@ -1,0 +1,220 @@
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\VMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.MainApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path "javafx-sdk-17.0.18\lib" --add-modules javafx.controls,javafx.fxml,javafx.swing -classpath "C:\Livraison_VMS\VMS.exe" pkg.vms.application.MainApp
+Args length:	159/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\ScanQrApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.ScanQrApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path C:\Livraison_VMS\javafx-sdk-17.0.18\lib --add-modules javafx.controls,javafx.fxml,javafx.swing -classpath "C:\Livraison_VMS\ScanQrApp.exe" pkg.vms.application.ScanQrApp
+Args length:	182/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\ScanQrApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.ScanQrApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path C:\Livraison_VMS\javafx-sdk-17.0.18\lib --add-modules javafx.controls,javafx.fxml,javafx.swing -classpath "C:\Livraison_VMS\ScanQrApp.exe" pkg.vms.application.ScanQrApp
+Args length:	182/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Livraison_VMS\ScanQrApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Livraison_VMS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache\Maven\apache-maven-3.9.14\bin;C:\Program Files\WiX Toolset v7.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Users\dimit\AppData\Local\Microsoft\WindowsApps;C:\Users\dimit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dimit\AppData\Local\GitHubDesktop\bin;C:\Users\dimit\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	pkg.vms.application.ScanQRApp
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path C:\Livraison_VMS\javafx-sdk-17.0.18\lib --add-modules javafx.controls,javafx.fxml,javafx.swing -classpath "C:\Livraison_VMS\ScanQrApp.exe" pkg.vms.application.ScanQRApp
+Args length:	182/32768 chars
+Exit code:	0
